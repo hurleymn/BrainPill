@@ -1,9 +1,10 @@
 # BrainPill
 
 <html>
-
+<head>
  <title>Brain Pill</title>
 
+</head>
 
 <h1>Politics</h1>
 
